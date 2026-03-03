@@ -98,3 +98,5 @@ This project demonstrates how raw admission data can be transformed into meaning
 
 The Global Admissions Performance Dashboard provides a structured, interactive, and executive-level overview of admissions performance, enabling better strategic planning and improved enrollment outcomes.
 
+Dashboard made in Google Locker Studio 
+project link:- https://lookerstudio.google.com/s/h0cZ9hl_h48
